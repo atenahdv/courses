@@ -2,7 +2,7 @@
 <html lang="fa">
 <head>
     <meta charset="UTF-8">
-    <title>Vue 3 در Laravel</title>
+    <title>mustafa</title>
     <link href="{{ mix('css/app.css') }}" rel="stylesheet">
 </head>
 <body>
